@@ -1,0 +1,15 @@
+D:\PRUEBA\ejer1\bin\Debug\net8.0\ejer1.exe
+D:\PRUEBA\ejer1\bin\Debug\net8.0\ejer1.deps.json
+D:\PRUEBA\ejer1\bin\Debug\net8.0\ejer1.runtimeconfig.json
+D:\PRUEBA\ejer1\bin\Debug\net8.0\ejer1.dll
+D:\PRUEBA\ejer1\bin\Debug\net8.0\ejer1.pdb
+D:\PRUEBA\ejer1\obj\Debug\net8.0\ejer1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRUEBA\ejer1\obj\Debug\net8.0\ejer1.AssemblyInfoInputs.cache
+D:\PRUEBA\ejer1\obj\Debug\net8.0\ejer1.AssemblyInfo.cs
+D:\PRUEBA\ejer1\obj\Debug\net8.0\ejer1.csproj.CoreCompileInputs.cache
+D:\PRUEBA\ejer1\obj\Debug\net8.0\ejer1.sourcelink.json
+D:\PRUEBA\ejer1\obj\Debug\net8.0\ejer1.dll
+D:\PRUEBA\ejer1\obj\Debug\net8.0\refint\ejer1.dll
+D:\PRUEBA\ejer1\obj\Debug\net8.0\ejer1.pdb
+D:\PRUEBA\ejer1\obj\Debug\net8.0\ejer1.genruntimeconfig.cache
+D:\PRUEBA\ejer1\obj\Debug\net8.0\ref\ejer1.dll
